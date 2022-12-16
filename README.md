@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rogue-shark.github.io/Calcualtor">
+    <a href="https://rogue-shark.github.io/Calculator">
       D E M O
     </a>
     <span> | </span>
-    <a href="https://github.com/rogue-shark/Calcualtor">
+    <a href="https://github.com/rogue-shark/Calculator">
       Solution
   </h3>
 </div>
