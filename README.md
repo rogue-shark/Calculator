@@ -8,7 +8,7 @@
       D E M O
     </a>
     <span> | </span>
-    <a href="https://rogue-shark.github.io/Calculator/">
+    <a href="https://github.com/rogue-shark/Calcualtor">
       Solution
   </h3>
 </div>
